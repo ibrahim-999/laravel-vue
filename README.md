@@ -13,4 +13,4 @@
 - php artisan serve
 - and finally observe the task
 
--- i have use laravel-api and vue3, a new tech vue composition way to develop this project and if there are any questions i'm looking forward for them
+-- i have used laravel-api and vue3, a new tech vue composition way to develop this project and if there are any questions i'm looking forward for them
